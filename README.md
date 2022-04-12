@@ -1,1 +1,1 @@
-# onem2m
+# oneM2M
