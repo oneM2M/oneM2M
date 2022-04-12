@@ -1,1 +1,1 @@
-# oneM2M - Test
+oneM2M Test
